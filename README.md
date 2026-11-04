@@ -1,8 +1,8 @@
-# LLM-Supported Test Artifacts in Agile Environments: A Scoping Review
+# LLM-Supported Testing Artifacts in Agile Development: A Scoping Review
 
 ## Overview
 
-This repository provides the supplementary material for the paper **"LLM-Supported Test Artifacts in Agile Environments: A Scoping Review"**, submitted to the *IEEE/ACM International Workshop on Automation of Software Test (AST 2027)*, co-located with ICSE 2027.
+This repository provides the supplementary material for the paper **"LLM-Supported Testing Artifacts in Agile Development: A Scoping Review"**, submitted to the *IEEE/ACM International Workshop on Automation of Software Test (AST 2027)*, co-located with ICSE 2027.
 
 The study presents a scoping review investigating how Large Language Models (LLMs) support software testing activities in agile development environments.
 
